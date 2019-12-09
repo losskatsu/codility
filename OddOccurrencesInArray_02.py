@@ -1,6 +1,9 @@
 # you can write to stdout for debugging purposes, e.g.
 # print("this is a debug message")
 
+# 점수 : 66%
+# 시간복잡도 N^2 
+
 def solution(A):
     # write your code in Python 3.6
     uniqA = list(set(A))
